@@ -1,0 +1,1 @@
+本篇文章主要描述scrapy-redis技术栈。以及scrapy-redis源码阅读的一些理解
