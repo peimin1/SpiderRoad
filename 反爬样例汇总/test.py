@@ -23,3 +23,4 @@ region.save("_3.png")
 # h = 300
 # region = im.crop((x, y, x + w, y + h))
 # region.save("./crop_test2.jpeg")
+# 测试
